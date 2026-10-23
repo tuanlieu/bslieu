@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:"static/chunks/791-1383c7b86bb8673c.js"
+3:"static/chunks/app/dich-vu/page-e4c7c549fca02131.js"
+4:I[3309,["791","$2","939","$3"],"Header"]
+5:I[377,[],""]
+6:I[7293,[],""]
+7:I[3309,["791","$2","939","$3"],"Footer"]
+b:I[3309,["791","$2","939","$3"],"PageIntro"]
+c:I[3309,["791","$2","939","$3"],"Empty"]
+d:I[3309,["791","$2","939","$3"],"BookingLink"]
+e:I[3788,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[3788,[],"$11"]
+14:"MetadataBoundary"
+15:I[3788,[],"$14"]
+17:I[8203,[],"default",1]
+:HL["/bslieu/_next/static/css/14fd9868090f9eb4.css","style"]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","$Lb",null,{"eyebrow":"DỊCH VỤ KHÁM","title":"Chăm sóc đúng nhu cầu","children":["$","p",null,{"children":"Danh mục dịch vụ, thời lượng và chi phí sẽ được công bố sau khi phòng khám xác nhận phạm vi hoạt động."}]}],["$","section",null,{"className":"section wrap","children":[["$","$Lc",null,{"title":"Danh mục dịch vụ đang được cập nhật","children":"Phòng khám chưa công bố dịch vụ và bảng giá. Bạn có thể xem hướng dẫn đặt lịch; yêu cầu chỉ được tiếp nhận khi lịch khám chính thức mở."}],["$","div",null,{"style":{"textAlign":"center","marginTop":28},"children":["$","$Ld",null,{"label":"Xem hướng dẫn đặt lịch"}]}]]}]],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"dich-vu","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","dich-vu",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bslieu/_next/static/css/14fd9868090f9eb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":[["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Jp7MtQ_zIHDFpg7A8DCnD"}
+9:C
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:null
+16:[["$","title","0",{"children":"Bs. Nguyễn Liễu | Chăm sóc sức khỏe tim mạch"}],["$","meta","1",{"name":"description","content":"Không gian chăm sóc sức khỏe tim mạch của Bs. Nguyễn Liễu. Tìm hiểu bác sĩ, thông tin khám và đặt lịch thuận tiện."}],["$","meta","2",{"name":"robots","content":"index, follow"}]]
